@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+*/
+.post-thumb {
+    float: left; 
+    width: 25%; 
+    margin-right: 5%;
+}
+.post-content {
+    float: right; 
+    width: 70%;
+}
